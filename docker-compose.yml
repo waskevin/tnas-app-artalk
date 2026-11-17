@@ -1,0 +1,6 @@
+services:
+  artalk:
+    image: willowgod/artalk:sha-16fe646
+    restart: unless-stopped
+    environment:
+      TZ: Asia/Shanghai
