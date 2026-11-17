@@ -1,0 +1,21 @@
+{
+  "number": 17,
+  "name": "Artalk",
+  "source": "https://artalk.js.org/",
+  "docker_hub": "willowgod/artalk",
+  "tag": "sha-16fe646",
+  "repository": "https://github.com/waskevin/tnas-app-artalk",
+  "dual_arch": true,
+  "architectures": [
+    "amd64",
+    "arm64"
+  ],
+  "screenshot_path": "precheck-screenshots/artalk/x86_64/run.png",
+  "screenshot_status": "captured",
+  "developer_name": "管浩良",
+  "developer_email": "k.kuan@qq.com",
+  "submission_status": "not_submitted",
+  "scheduled_publish": "20:00",
+  "runtime_status": "no_http",
+  "runtime_note": ""
+}
